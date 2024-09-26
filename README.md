@@ -1,5 +1,5 @@
 # AIPI590-Imodels
 
-![FIGS](FIGS visual.png)
-![OneR](OneR visual.png)
-![Skope](Skope visual.png)
+![FIGS](./FIGS.png)
+![OneR](./OneR.png)
+![Skope](./Skope.png)
